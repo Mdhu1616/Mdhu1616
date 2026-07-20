@@ -1,4 +1,4 @@
-# Hi, I'm Madhumitha Kommisetty 👋
+# Hi, I'm Madhumitha Kommisetty
 
 **4th-year B.Tech in CSE (AI & Data Science) @ Parul University** | Building scalable web applications and ML solutions | Passionate about backend development and AI-driven innovation
 
@@ -9,7 +9,7 @@
 **AI/ML:** CNN-LSTM, ML Pipelines, Deep Learning  
 **Tools:** Git, Linux, Neural Networks  
 
-## 💼 Featured Projects
+## Featured Projects
 
 🔨 **Hack & Hired** - Full-stack MERN job discovery platform with RESTful APIs  
 🤖 **AI Resume Matcher** - Intelligent resume analysis using Google's Gemini AI  
